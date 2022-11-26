@@ -1,0 +1,626 @@
+G:\BEAR_storage\User_Experiments\20210802_arneodo\file(1)_Region 20__0008.txt
+Ring Energy (GeV): 2
+Lifetime (hours): 22.0839
+Scan beginning: 8/3/2021	5:15:52 PM
+Ring current (mA): 228.53
+Source position: x (mm): 0.005 x' (mrad): -0.003 y (mm): 0.004 y' (mrad): 0.002
+Scan end: 8/3/2021	8:31:03 PM
+Ring current (mA): 228.86
+Source position: x (mm): 0.005 x' (mrad): -0.002 y (mm): 0.005 y' (mrad): 0.002
+
+SCAN TYPE: PHOTON ENERGY VS VAR_1 VS VAR_2
+
+FILE INFO: FILE INFO:
+
+SCAN PARAMETERS
+waiting time (ms): 1000
+Number of scans: 1
+Current scan number: 1
+DARK OFF 
+PREDARK OFF 
+
+SCAN PARAMETERS
+Regions configuration: 
+number of regions: 21
+Mirror grating scan: off
+Timed acquisition: off
+Region 1:
+Initial energy (eV): 3.000000
+Final energy (eV): 4.500000
+Delta energy (eV): 0.100000
+Deviation angle choice: Degrees: 
+Deviation angle (°): 169.600000
+B270 window
+GNIM channel
+range keithley B 200 pA
+range keithley C 200 pA
+range keithley A 200 pA
+Var_1: XM-2.000000
+Var_2: YM14.000000
+Bias CEM (V): 0.000000
+Bias Keithley B (V): -10.000000
+Name region: 
+Region 2:
+Initial energy (eV): 4.000000
+Final energy (eV): 8.000000
+Delta energy (eV): 0.100000
+Deviation angle choice: Degrees: 
+Deviation angle (°): 169.600000
+SiO2 window
+GNIM channel
+range keithley B 200 pA
+range keithley C 200 pA
+range keithley A 200 pA
+Var_1: XM-2.000000
+Var_2: YM14.000000
+Bias CEM (V): 0.000000
+Bias Keithley B (V): -10.000000
+Name region: 
+Region 3:
+Initial energy (eV): 7.000000
+Final energy (eV): 12.000000
+Delta energy (eV): 0.100000
+Deviation angle choice: Degrees: 
+Deviation angle (°): 169.600000
+filter LiF window
+GNIM channel
+range keithley B 200 pA
+range keithley C 200 pA
+range keithley A 200 pA
+Var_1: XM-2.000000
+Var_2: YM14.000000
+Bias CEM (V): 0.000000
+Bias Keithley B (V): -10.000000
+Name region: 
+Region 4:
+Initial energy (eV): 11.000000
+Final energy (eV): 18.000000
+Delta energy (eV): 0.100000
+Deviation angle choice: Degrees: 
+Deviation angle (°): 169.600000
+In filter
+GNIM channel
+range keithley B 200 pA
+range keithley C 200 pA
+range keithley A 200 pA
+Var_1: XM-2.000000
+Var_2: YM14.000000
+Bias CEM (V): 0.000000
+Bias Keithley B (V): -10.000000
+Name region: 
+Region 5:
+Initial energy (eV): 15.000000
+Final energy (eV): 25.000000
+Delta energy (eV): 0.100000
+Deviation angle choice: Degrees: 
+Deviation angle (°): 169.600000
+Sn filter
+GNIM channel
+range keithley B 200 pA
+range keithley C 200 pA
+range keithley A 200 pA
+Var_1: XM-2.000000
+Var_2: YM14.000000
+Bias CEM (V): 0.000000
+Bias Keithley B (V): -10.000000
+Name region: 
+Region 6:
+Initial energy (eV): 23.000000
+Final energy (eV): 30.000000
+Delta energy (eV): 0.100000
+Deviation angle choice: Degrees: 
+Deviation angle (°): 169.600000
+Full Beam
+GNIM channel
+range keithley B 20 nA
+range keithley C 200 pA
+range keithley A 20 nA
+Var_1: XM-2.000000
+Var_2: YM14.000000
+Bias CEM (V): 0.000000
+Bias Keithley B (V): -10.000000
+Name region: 
+Region 7:
+Initial energy (eV): 23.000000
+Final energy (eV): 30.000000
+Delta energy (eV): 0.100000
+Deviation angle choice: Degrees: 
+Deviation angle (°): 169.600000
+Al filter
+GNIM channel
+range keithley B 20 nA
+range keithley C 200 pA
+range keithley A 20 nA
+Var_1: XM-2.000000
+Var_2: YM14.000000
+Bias CEM (V): 0.000000
+Bias Keithley B (V): -10.000000
+Name region: 
+Region 8:
+Initial energy (eV): 3.000000
+Final energy (eV): 4.500000
+Delta energy (eV): 0.100000
+Deviation angle choice: Degrees: 
+Deviation angle (°): 169.600000
+B270 window
+GNIM channel
+range keithley B 200 pA
+range keithley C 200 pA
+range keithley A 200 pA
+Var_1: XM-11.000000
+Var_2: YM14.000000
+Bias CEM (V): 0.000000
+Bias Keithley B (V): -10.000000
+Name region: 
+Region 9:
+Initial energy (eV): 4.000000
+Final energy (eV): 8.000000
+Delta energy (eV): 0.100000
+Deviation angle choice: Degrees: 
+Deviation angle (°): 169.600000
+SiO2 window
+GNIM channel
+range keithley B 200 pA
+range keithley C 200 pA
+range keithley A 200 pA
+Var_1: XM-11.000000
+Var_2: YM14.000000
+Bias CEM (V): 0.000000
+Bias Keithley B (V): -10.000000
+Name region: 
+Region 10:
+Initial energy (eV): 7.000000
+Final energy (eV): 12.000000
+Delta energy (eV): 0.100000
+Deviation angle choice: Degrees: 
+Deviation angle (°): 169.600000
+filter LiF window
+GNIM channel
+range keithley B 200 pA
+range keithley C 200 pA
+range keithley A 200 pA
+Var_1: XM-11.000000
+Var_2: YM14.000000
+Bias CEM (V): 0.000000
+Bias Keithley B (V): -10.000000
+Name region: 
+Region 11:
+Initial energy (eV): 11.000000
+Final energy (eV): 18.000000
+Delta energy (eV): 0.100000
+Deviation angle choice: Degrees: 
+Deviation angle (°): 169.600000
+In filter
+GNIM channel
+range keithley B 200 pA
+range keithley C 200 pA
+range keithley A 200 pA
+Var_1: XM-11.000000
+Var_2: YM14.000000
+Bias CEM (V): 0.000000
+Bias Keithley B (V): -10.000000
+Name region: 
+Region 12:
+Initial energy (eV): 15.000000
+Final energy (eV): 25.000000
+Delta energy (eV): 0.100000
+Deviation angle choice: Degrees: 
+Deviation angle (°): 169.600000
+Sn filter
+GNIM channel
+range keithley B 200 pA
+range keithley C 200 pA
+range keithley A 200 pA
+Var_1: XM-11.000000
+Var_2: YM14.000000
+Bias CEM (V): 0.000000
+Bias Keithley B (V): -10.000000
+Name region: 
+Region 13:
+Initial energy (eV): 23.000000
+Final energy (eV): 30.000000
+Delta energy (eV): 0.100000
+Deviation angle choice: Degrees: 
+Deviation angle (°): 169.600000
+Full Beam
+GNIM channel
+range keithley B 20 nA
+range keithley C 200 pA
+range keithley A 20 nA
+Var_1: XM-11.000000
+Var_2: YM14.000000
+Bias CEM (V): 0.000000
+Bias Keithley B (V): -10.000000
+Name region: 
+Region 14:
+Initial energy (eV): 23.000000
+Final energy (eV): 30.000000
+Delta energy (eV): 0.100000
+Deviation angle choice: Degrees: 
+Deviation angle (°): 169.600000
+Al filter
+GNIM channel
+range keithley B 20 nA
+range keithley C 200 pA
+range keithley A 20 nA
+Var_1: XM-11.000000
+Var_2: YM14.000000
+Bias CEM (V): 0.000000
+Bias Keithley B (V): -10.000000
+Name region: 
+Region 15:
+Initial energy (eV): 3.000000
+Final energy (eV): 4.500000
+Delta energy (eV): 0.100000
+Deviation angle choice: Degrees: 
+Deviation angle (°): 169.600000
+B270 window
+GNIM channel
+range keithley B 200 pA
+range keithley C 200 pA
+range keithley A 200 pA
+Var_1: XM-11.000000
+Var_2: YM24.000000
+Bias CEM (V): 0.000000
+Bias Keithley B (V): -10.000000
+Name region: 
+Region 16:
+Initial energy (eV): 4.000000
+Final energy (eV): 8.000000
+Delta energy (eV): 0.100000
+Deviation angle choice: Degrees: 
+Deviation angle (°): 169.600000
+SiO2 window
+GNIM channel
+range keithley B 200 pA
+range keithley C 200 pA
+range keithley A 200 pA
+Var_1: XM-11.000000
+Var_2: YM24.000000
+Bias CEM (V): 0.000000
+Bias Keithley B (V): -10.000000
+Name region: 
+Region 17:
+Initial energy (eV): 7.000000
+Final energy (eV): 12.000000
+Delta energy (eV): 0.100000
+Deviation angle choice: Degrees: 
+Deviation angle (°): 169.600000
+filter LiF window
+GNIM channel
+range keithley B 200 pA
+range keithley C 200 pA
+range keithley A 200 pA
+Var_1: XM-11.000000
+Var_2: YM24.000000
+Bias CEM (V): 0.000000
+Bias Keithley B (V): -10.000000
+Name region: 
+Region 18:
+Initial energy (eV): 11.000000
+Final energy (eV): 18.000000
+Delta energy (eV): 0.100000
+Deviation angle choice: Degrees: 
+Deviation angle (°): 169.600000
+In filter
+GNIM channel
+range keithley B 200 pA
+range keithley C 200 pA
+range keithley A 200 pA
+Var_1: XM-11.000000
+Var_2: YM24.000000
+Bias CEM (V): 0.000000
+Bias Keithley B (V): -10.000000
+Name region: 
+Region 19:
+Initial energy (eV): 15.000000
+Final energy (eV): 25.000000
+Delta energy (eV): 0.100000
+Deviation angle choice: Degrees: 
+Deviation angle (°): 169.600000
+Sn filter
+GNIM channel
+range keithley B 200 pA
+range keithley C 200 pA
+range keithley A 200 pA
+Var_1: XM-11.000000
+Var_2: YM24.000000
+Bias CEM (V): 0.000000
+Bias Keithley B (V): -10.000000
+Name region: 
+Region 20:
+Initial energy (eV): 23.000000
+Final energy (eV): 30.000000
+Delta energy (eV): 0.100000
+Deviation angle choice: Degrees: 
+Deviation angle (°): 169.600000
+Full Beam
+GNIM channel
+range keithley B 20 nA
+range keithley C 200 pA
+range keithley A 20 nA
+Var_1: XM-11.000000
+Var_2: YM24.000000
+Bias CEM (V): 0.000000
+Bias Keithley B (V): -10.000000
+Name region: 
+Region 21:
+Initial energy (eV): 23.000000
+Final energy (eV): 30.000000
+Delta energy (eV): 0.100000
+Deviation angle choice: Degrees: 
+Deviation angle (°): 169.600000
+Al filter
+GNIM channel
+range keithley B 20 nA
+range keithley C 200 pA
+range keithley A 20 nA
+Var_1: XM-11.000000
+Var_2: YM24.000000
+Bias CEM (V): 0.000000
+Bias Keithley B (V): -10.000000
+Name region: 
+
+BEAR MONOCHROMATOR CONFIGURATION: 
+Current Grating Position:     158791.40
+Current Mirror Position: 10000.0
+Current Grating: GNIM
+P2 phiz position:  -0.0027
+Mono axis position: 73.5000
+Current Photon Energy (eV): 17.876
+Current Deviation Angle: 29.905
+Vertical Exit Slits (um): 100.000
+Exit slit y axis position: 1.3625
+Horizontal Exit Slits (um):  890.000
+Exit slit z axis position: 1.9250
+Mitutoyo position (mm): 
+
+Dose on sample (mJ/cm^2): NaN
+
+ENERGY CALIBRATION:
+offset grating G1200: yes
+Delta 0 order G1200:  -800.0
+offset grating G1800: not
+Delta 0 order G1800:  0.0
+offset grating GNIM: not
+Delta 0 order GNIM:  0.0
+ZERO ORDER POSITIONS:
+Grating G1200: Mirror position:  4938.0
+Grating position: -106855.0
+Grating G1800: 
+Mirror position:  4938.0
+Grating position: -106345.0
+Grating GNIM: 
+Mirror position:  10000.0
+Grating position: 227300.0
+
+Initial filter: Sn filter
+
+EXPERIMENTAL CHAMBER CONFIGURATION: 
+PsiC (deg):   -0.003530
+Phi Analyzer (degrees): 0.000947
+Theta Manipulator (degrees): -60.000000
+Theta Analyzer (degrees): -0.000182
+PhiM (degrees): -0.003077
+XM (mm): -1.999838
+YM (mm): 13.998838
+ZM (mm): (Warning: for kinetic energy scans, 
+this parameter is given in the scan settings) 
+-3.000950
+TiltM (°): 0.000412
+
+COIL VALUES
+Ix (amps):2.820
+Iy (amps): 0.000
+Iz (amps): 37.530
+
+POLARIZATION SELECTOR CONFIGURATION:
+Psi1 (rad): -0.001665535
+Psi2 (rad): 0.001417093
+Z min position (mm): 46.599650
+DZ position (mm): 18.599100
+Zmin 0 (mm): 65.700000
+DZ0 (mm): 54.000000
+
+BEAM SELECTOR CONFIGURATION:
+Zmin position (mm): NaN
+DZ position (mm): NaN
+Y+ position (mm): NaN
+Y- position (mm): NaN
+
+CHANNEL ELECTRON MULTIPLIER CONFIGURATION:
+CEM configured: OFF
+Bias CEM: 0.000000
+
+FLUORESCENCE DETECTOR CONFIGURATION:
+Not configured
+
+LUMINESCENCE MONOCHROMATOR CONFIGURATION:
+Optical fiber position (mm): 0.000000
+Optical fiber Switch inside: ON
+Optical fiber Switch outside: ON
+Monochromator wavelength (A): 0.000000
+Limit Switches: ON
+
+I0 MONITOR PARAMETERS:
+I0 detector position(mm): NaN
+Lower switch: OFF
+Upper switch: OFF
+Valve status:open
+
+PRESSURE PARAMETERS:
+Monitor chamber pressure (mbar): 1.422e-09
+Experimental chamber pressure -ION GAUGE-(mbar): 0.000000E+0
+
+XMCD PARAMETERS:
+Xmcd OFF
+Xmcd Direction -
+Xmcd current (A): 0.000000
+
+Gated scan off
+
+Instrument 1: AMMETER KEITHLEY 6517A B
+Measure type: Current
+range type: set range value
+range value (ampere):  200 pA
+Integration time:  set NPLC value
+NPLC value: 10.000
+Digital filter count: 5
+SAMPLE BIAS (V): -10.000
+Vsource: ON
+Output Voltage value: 10.000
+Vsource range: 100 V
+
+Keithley B Bias (V) changed to: -10.000000
+
+Range Keithley B changed to 20 nA
+
+Range Keithley B changed to 200 pA
+
+Range Keithley B changed to 20 nA
+
+Range Keithley B changed to 200 pA
+
+Range Keithley B changed to 20 nA
+
+Range Keithley B changed to 200 pA
+
+Range Keithley B changed to 20 nA
+
+Range Keithley B changed to 200 pA
+
+Range Keithley B changed to 20 nA
+
+Range Keithley B changed to 200 pA
+
+Range Keithley B changed to 20 nA
+
+Range Keithley B changed to 200 pA
+
+Range Keithley B changed to 20 nA
+
+Range Keithley B changed to 200 pA
+
+Range Keithley B changed to 20 nA
+
+Instrument 2: AMMETER KEITHLEY 6517A A
+Measure type: Current
+range type: set range value
+range value (ampere):  200 pA
+Integration time:  set NPLC value
+NPLC value: 10.000
+Digital filter count: 2
+Vsource: OFF
+Output Voltage value: -0.000
+Vsource range: 100 V
+Trigger source: bus
+
+Range Keithley A changed to 20 nA
+
+Range Keithley A changed to 200 pA
+
+Range Keithley A changed to 20 nA
+
+Range Keithley A changed to 200 pA
+
+Range Keithley A changed to 20 nA
+
+Range Keithley A changed to 200 pA
+
+Range Keithley A changed to 20 nA
+
+Range Keithley A changed to 200 pA
+
+Range Keithley A changed to 20 nA
+
+Range Keithley A changed to 200 pA
+
+Range Keithley A changed to 20 nA
+
+Range Keithley A changed to 200 pA
+
+Range Keithley A changed to 20 nA
+
+Range Keithley A changed to 200 pA
+
+Range Keithley A changed to 20 nA
+
+Instrument 3: None
+
+
+________________________________________________________________________________
+
+RelativeTime (msec)	Photon Energy	Var_1	Var_2	INSTR_1_Sample with Bias _(ampere ) 	INSTR_2_Monitor IM_(ampere)  	INSTR_3_No instrument selected_()	I_BPM_sum (Amps)	
+________________________________________________________________________________
+
+5.10142100E+6	2.30000877E+1	-1.10000000E+1	2.40000000E+1	5.96770000E-10	2.22960000E-10	     NaN	6.48872989E-5
+5.11133800E+6	2.30997647E+1	-1.10000000E+1	2.40000000E+1	5.95960000E-10	2.22990000E-10	     NaN	6.47043424E-5
+5.11979900E+6	2.31999576E+1	-1.10000000E+1	2.40000000E+1	5.95590000E-10	2.22790000E-10	     NaN	6.50315064E-5
+5.12819400E+6	2.32997368E+1	-1.10000000E+1	2.40000000E+1	5.92600000E-10	2.22330000E-10	     NaN	6.48253846E-5
+5.13654300E+6	2.34000201E+1	-1.10000000E+1	2.40000000E+1	5.90820000E-10	2.21620000E-10	     NaN	6.47288489E-5
+5.14499500E+6	2.35002227E+1	-1.10000000E+1	2.40000000E+1	5.92890000E-10	2.20520000E-10	     NaN	6.45590144E-5
+5.15347500E+6	2.36000128E+1	-1.10000000E+1	2.40000000E+1	5.85040000E-10	2.19170000E-10	     NaN	6.46937000E-5
+5.16190000E+6	2.37001950E+1	-1.10000000E+1	2.40000000E+1	5.78270000E-10	2.17490000E-10	     NaN	6.45264226E-5
+5.17035600E+6	2.37998428E+1	-1.10000000E+1	2.40000000E+1	5.76730000E-10	2.15530000E-10	     NaN	6.47618431E-5
+5.17879700E+6	2.39000053E+1	-1.10000000E+1	2.40000000E+1	5.73260000E-10	2.13260000E-10	     NaN	6.46872180E-5
+5.18711500E+6	2.39997907E+1	-1.10000000E+1	2.40000000E+1	5.67350000E-10	2.10750000E-10	     NaN	6.48013401E-5
+5.19544000E+6	2.40999857E+1	-1.10000000E+1	2.40000000E+1	5.59340000E-10	2.07960000E-10	     NaN	6.45182150E-5
+5.20373400E+6	2.42002073E+1	-1.10000000E+1	2.40000000E+1	5.49060000E-10	2.04900000E-10	     NaN	6.47481727E-5
+5.21205900E+6	2.42998183E+1	-1.10000000E+1	2.40000000E+1	5.42240000E-10	2.01700000E-10	     NaN	6.45742017E-5
+5.22033600E+6	2.43999608E+1	-1.10000000E+1	2.40000000E+1	5.34720000E-10	1.98260000E-10	     NaN	6.45837682E-5
+5.22861700E+6	2.45000492E+1	-1.10000000E+1	2.40000000E+1	5.23800000E-10	1.94720000E-10	     NaN	6.49219203E-5
+5.23698300E+6	2.46001710E+1	-1.10000000E+1	2.40000000E+1	5.13450000E-10	1.91160000E-10	     NaN	6.45953285E-5
+5.24539800E+6	2.47000675E+1	-1.10000000E+1	2.40000000E+1	5.06140000E-10	1.87590000E-10	     NaN	6.46155196E-5
+5.25369200E+6	2.47999744E+1	-1.10000000E+1	2.40000000E+1	4.95880000E-10	1.84000000E-10	     NaN	6.46722513E-5
+5.26200300E+6	2.49001356E+1	-1.10000000E+1	2.40000000E+1	4.80830000E-10	1.80530000E-10	     NaN	6.46497804E-5
+5.27029600E+6	2.49999344E+1	-1.10000000E+1	2.40000000E+1	4.70940000E-10	1.77160000E-10	     NaN	6.46411973E-5
+5.27859300E+6	2.50999702E+1	-1.10000000E+1	2.40000000E+1	4.62800000E-10	1.74040000E-10	     NaN	6.44212323E-5
+5.28688700E+6	2.51999795E+1	-1.10000000E+1	2.40000000E+1	4.52990000E-10	1.71030000E-10	     NaN	6.43965261E-5
+5.29519400E+6	2.53000566E+1	-1.10000000E+1	2.40000000E+1	4.44950000E-10	1.68220000E-10	     NaN	6.47798437E-5
+5.30347500E+6	2.53999302E+1	-1.10000000E+1	2.40000000E+1	4.37010000E-10	1.65670000E-10	     NaN	6.47759664E-5
+5.31175200E+6	2.55001703E+1	-1.10000000E+1	2.40000000E+1	4.36210000E-10	1.63260000E-10	     NaN	6.46286922E-5
+5.32003800E+6	2.55998658E+1	-1.10000000E+1	2.40000000E+1	4.29070000E-10	1.61120000E-10	     NaN	6.45281213E-5
+5.32978400E+6	2.57002901E+1	-1.10000000E+1	2.40000000E+1	4.24600000E-10	1.59160000E-10	     NaN	6.46447199E-5
+5.33806500E+6	2.57997103E+1	-1.10000000E+1	2.40000000E+1	4.15800000E-10	1.57340000E-10	     NaN	6.47370147E-5
+5.34635600E+6	2.59001220E+1	-1.10000000E+1	2.40000000E+1	4.11260000E-10	1.55720000E-10	     NaN	6.45374435E-5
+5.35463200E+6	2.59999373E+1	-1.10000000E+1	2.40000000E+1	4.10150000E-10	1.54160000E-10	     NaN	6.46249818E-5
+5.36289000E+6	2.61001910E+1	-1.10000000E+1	2.40000000E+1	4.06150000E-10	1.52760000E-10	     NaN	6.46285343E-5
+5.37119000E+6	2.61998185E+1	-1.10000000E+1	2.40000000E+1	4.04430000E-10	1.51440000E-10	     NaN	6.45248937E-5
+5.37951800E+6	2.63000400E+1	-1.10000000E+1	2.40000000E+1	3.92730000E-10	1.50240000E-10	     NaN	6.44842374E-5
+5.38780200E+6	2.64001198E+1	-1.10000000E+1	2.40000000E+1	3.81210000E-10	1.49200000E-10	     NaN	6.46171408E-5
+5.39610400E+6	2.64998166E+1	-1.10000000E+1	2.40000000E+1	3.76650000E-10	1.48850000E-10	     NaN	6.50366771E-5
+5.40440800E+6	2.66002114E+1	-1.10000000E+1	2.40000000E+1	3.74220000E-10	1.47710000E-10	     NaN	6.51143211E-5
+5.41273800E+6	2.66997970E+1	-1.10000000E+1	2.40000000E+1	3.67250000E-10	1.46590000E-10	     NaN	6.50662381E-5
+5.42102900E+6	2.68000136E+1	-1.10000000E+1	2.40000000E+1	3.65690000E-10	1.45490000E-10	     NaN	6.49660039E-5
+5.42930700E+6	2.69001575E+1	-1.10000000E+1	2.40000000E+1	3.62530000E-10	1.44380000E-10	     NaN	6.48813385E-5
+5.43760100E+6	2.70000400E+1	-1.10000000E+1	2.40000000E+1	3.57240000E-10	1.43240000E-10	     NaN	6.50711078E-5
+5.44590800E+6	2.70998268E+1	-1.10000000E+1	2.40000000E+1	3.51980000E-10	1.42040000E-10	     NaN	6.49591613E-5
+5.45426200E+6	2.71999912E+1	-1.10000000E+1	2.40000000E+1	3.47730000E-10	1.40820000E-10	     NaN	6.48858446E-5
+5.46260700E+6	2.73000462E+1	-1.10000000E+1	2.40000000E+1	3.42300000E-10	1.39540000E-10	     NaN	6.49975228E-5
+5.47090800E+6	2.74000425E+1	-1.10000000E+1	2.40000000E+1	3.38490000E-10	1.38230000E-10	     NaN	6.46677690E-5
+5.47921000E+6	2.74999706E+1	-1.10000000E+1	2.40000000E+1	3.33740000E-10	1.36880000E-10	     NaN	6.49601656E-5
+5.48761300E+6	2.75999456E+1	-1.10000000E+1	2.40000000E+1	3.25640000E-10	1.35500000E-10	     NaN	6.46511155E-5
+5.49596900E+6	2.76999605E+1	-1.10000000E+1	2.40000000E+1	3.22550000E-10	1.34080000E-10	     NaN	6.47084283E-5
+5.50429000E+6	2.78000713E+1	-1.10000000E+1	2.40000000E+1	3.15600000E-10	1.32710000E-10	     NaN	6.47593575E-5
+5.51262000E+6	2.79000815E+1	-1.10000000E+1	2.40000000E+1	3.09130000E-10	1.31400000E-10	     NaN	6.47547739E-5
+5.52084900E+6	2.79998529E+1	-1.10000000E+1	2.40000000E+1	3.01870000E-10	1.30120000E-10	     NaN	6.48279208E-5
+5.52913600E+6	2.81002760E+1	-1.10000000E+1	2.40000000E+1	3.01700000E-10	1.29000000E-10	     NaN	6.49175692E-5
+5.53749100E+6	2.81999923E+1	-1.10000000E+1	2.40000000E+1	2.96490000E-10	1.28000000E-10	     NaN	6.47262829E-5
+5.54583200E+6	2.82998953E+1	-1.10000000E+1	2.40000000E+1	2.93810000E-10	1.27190000E-10	     NaN	6.47371071E-5
+5.55420200E+6	2.84000473E+1	-1.10000000E+1	2.40000000E+1	2.89910000E-10	1.26620000E-10	     NaN	6.47434520E-5
+5.56249500E+6	2.84999151E+1	-1.10000000E+1	2.40000000E+1	2.87620000E-10	1.26300000E-10	     NaN	6.48332196E-5
+5.57078400E+6	2.86000198E+1	-1.10000000E+1	2.40000000E+1	2.86460000E-10	1.26230000E-10	     NaN	6.46908688E-5
+5.57914600E+6	2.87002919E+1	-1.10000000E+1	2.40000000E+1	2.86980000E-10	1.26460000E-10	     NaN	6.48604172E-5
+5.58741900E+6	2.87997783E+1	-1.10000000E+1	2.40000000E+1	2.87080000E-10	1.27010000E-10	     NaN	6.49720478E-5
+5.59562600E+6	2.88996840E+1	-1.10000000E+1	2.40000000E+1	2.91020000E-10	1.27850000E-10	     NaN	6.47631752E-5
+5.60388200E+6	2.90004226E+1	-1.10000000E+1	2.40000000E+1	2.87310000E-10	1.29060000E-10	     NaN	6.48649889E-5
+5.61218200E+6	2.90998592E+1	-1.10000000E+1	2.40000000E+1	2.88390000E-10	1.30590000E-10	     NaN	6.47702354E-5
+5.62049700E+6	2.91999104E+1	-1.10000000E+1	2.40000000E+1	2.88600000E-10	1.32460000E-10	     NaN	6.47229242E-5
+5.62885200E+6	2.93001609E+1	-1.10000000E+1	2.40000000E+1	2.92740000E-10	1.34620000E-10	     NaN	6.49718988E-5
+5.63716100E+6	2.93999014E+1	-1.10000000E+1	2.40000000E+1	2.95050000E-10	1.37100000E-10	     NaN	6.46478223E-5
+5.64544800E+6	2.94997545E+1	-1.10000000E+1	2.40000000E+1	3.01380000E-10	1.39850000E-10	     NaN	6.46997916E-5
+5.65364900E+6	2.95998585E+1	-1.10000000E+1	2.40000000E+1	3.05410000E-10	1.42870000E-10	     NaN	6.49098325E-5
+5.66199400E+6	2.97002118E+1	-1.10000000E+1	2.40000000E+1	3.18500000E-10	1.46030000E-10	     NaN	6.51323992E-5
+5.67028600E+6	2.98001593E+1	-1.10000000E+1	2.40000000E+1	3.21400000E-10	1.49390000E-10	     NaN	6.49224836E-5
+5.67844400E+6	2.98994669E+1	-1.10000000E+1	2.40000000E+1	3.27780000E-10	1.52840000E-10	     NaN	6.46492439E-5
+5.68673500E+6	3.00005416E+1	-1.10000000E+1	2.40000000E+1	3.34190000E-10	1.56320000E-10	     NaN	6.47909033E-5

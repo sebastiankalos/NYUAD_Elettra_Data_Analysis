@@ -1,0 +1,185 @@
+G:\BEAR_storage\User_Experiments\20220108_arneodo\file(1)0004.txt
+Ring Energy (GeV): 2
+Lifetime (hours): 0
+Scan beginning: 8/1/2022	9:30:58 AM
+Ring current (mA): 308.79
+Source position: x (mm): -0.003 x' (mrad): 0.003 y (mm): -0.002 y' (mrad): 0.001
+Scan end: 8/1/2022	9:32:16 AM
+Ring current (mA): 308.39
+Source position: x (mm): -0.003 x' (mrad): 0.003 y (mm): -0.002 y' (mrad): 0.001
+
+SCAN TYPE: GRATING ABSOLUTE POSITION
+
+FILE INFO: FILE INFO:
+
+SCAN PARAMETERS
+waiting time (ms): 0
+Number of scans: 1
+Current scan number: 1
+DARK OFF 
+PREDARK OFF 
+
+SCAN PARAMETERS
+Initial GAP: -107.000000E+3
+Delta GAP: 50.000000E+0
+Final GAP: -103.000000E+3
+MAP: 4.938000E+3
+
+
+BEAR MONOCHROMATOR CONFIGURATION: 
+Current Grating Position:     -105344.60
+Current Mirror Position: 4938.0
+Current Grating: G1200
+P2 phiz position:  0.0000
+Mono axis position: 25.0000
+Current Photon Energy (eV): -4103.877
+Current Deviation Angle: 155.177
+Vertical Exit Slits (um): 50.000
+Exit slit y axis position: 1.2375
+Horizontal Exit Slits (um):  890.000
+Exit slit z axis position: 1.9250
+Mitutoyo position (mm): 
+
+Dose on sample (mJ/cm^2): NaN
+
+ENERGY CALIBRATION:
+offset grating G1200: yes
+Delta 0 order G1200:  -1000.0
+offset grating G1800: not
+Delta 0 order G1800:  0.0
+offset grating GNIM: not
+Delta 0 order GNIM:  0.0
+ZERO ORDER POSITIONS:
+Grating G1200: Mirror position:  4938.0
+Grating position: -105355.0
+Grating G1800: 
+Mirror position:  4938.0
+Grating position: -106345.0
+Grating GNIM: 
+Mirror position:  10000.0
+Grating position: 227300.0
+
+Initial filter: Full Beam
+
+EXPERIMENTAL CHAMBER CONFIGURATION: 
+PsiC (deg):   0.036413
+Phi Analyzer (degrees): -0.009471
+Theta Manipulator (degrees): -0.000040
+Theta Analyzer (degrees): -0.000455
+PhiM (degrees): 92.984237
+XM (mm): 4.999837
+YM (mm): 22.584175
+ZM (mm): (Warning: for kinetic energy scans, 
+this parameter is given in the scan settings) 
+-9.500188
+TiltM (°): -0.000275
+
+COIL VALUES
+Ix (amps):2.950
+Iy (amps): 6.790
+Iz (amps): 14.440
+
+POLARIZATION SELECTOR CONFIGURATION:
+Psi1 (rad): -0.001665535
+Psi2 (rad): 0.001417093
+Z min position (mm): 46.599650
+DZ position (mm): 18.599100
+Zmin 0 (mm): 66.500000
+DZ0 (mm): 53.000000
+
+BEAM SELECTOR CONFIGURATION:
+Zmin position (mm): 158.000000
+DZ position (mm): 264.000000
+Y+ position (mm): 291.700000
+Y- position (mm): NaN
+
+CHANNEL ELECTRON MULTIPLIER CONFIGURATION:
+CEM configured: OFF
+Bias CEM: 0.000000
+
+FLUORESCENCE DETECTOR CONFIGURATION:
+Not configured
+
+LUMINESCENCE MONOCHROMATOR CONFIGURATION:
+Optical fiber position (mm): 0.000000
+Optical fiber Switch inside: OFF
+Optical fiber Switch outside: ON
+Monochromator wavelength (A): 229000.000000
+Limit Switches: OFF
+
+I0 MONITOR PARAMETERS:
+I0 detector position(mm): -0.000000E+0
+Lower switch: OFF
+Upper switch: OFF
+Valve status:open
+
+PRESSURE PARAMETERS:
+Monitor chamber pressure (mbar): 2.167e-09
+Experimental chamber pressure -ION GAUGE-(mbar): 0.000000E+0
+
+XMCD PARAMETERS:
+Xmcd OFF
+Xmcd Direction -
+Xmcd current (A): 0.000000
+
+Gated scan off
+
+Instrument 1: None
+
+Instrument 2: AMMETER KEITHLEY 6517A A
+Measure type: Current
+range type: set range value
+range value (ampere):  20 uA
+Integration time:  set NPLC value
+NPLC value: 10.000
+Digital filter count: 2
+Vsource: OFF
+Output Voltage value: -0.000
+Vsource range: 100 V
+Trigger source: bus
+
+Instrument 3: None
+
+
+________________________________________________________________________________
+
+RelativeTime (msec)	Photon Energy (eV)	Position Grating	Position  Mirror	INSTR_1_No instrument selected_( ) 	INSTR_2_Monitor IM_(ampere)  	INSTR_3_No instrument selected_()	I_BPM_sum (Amps)	
+________________________________________________________________________________
+
+1.47100000E+3	1.25631785E+4	-1.06999800E+5	4.93800000E+3	     NaN	6.70000000E-10	     NaN	8.86328892E-5
+4.28300000E+3	1.43199975E+4	-1.06949800E+5	4.93800000E+3	     NaN	6.90000000E-10	     NaN	8.85235505E-5
+6.34200000E+3	1.66426268E+4	-1.06899900E+5	4.93800000E+3	     NaN	6.90000000E-10	     NaN	8.85185973E-5
+8.42500000E+3	1.98722644E+4	-1.06849900E+5	4.93800000E+3	     NaN	7.00000000E-10	     NaN	8.85001407E-5
+1.04670000E+4	2.46571941E+4	-1.06799900E+5	4.93800000E+3	     NaN	7.00000000E-10	     NaN	8.87411015E-5
+1.26040000E+4	3.25184457E+4	-1.06749700E+5	4.93800000E+3	     NaN	7.10000000E-10	     NaN	8.86617677E-5
+1.47060000E+4	4.75611550E+4	-1.06699900E+5	4.93800000E+3	     NaN	7.20000000E-10	     NaN	8.86972533E-5
+1.68100000E+4	8.85006960E+4	-1.06650100E+5	4.93800000E+3	     NaN	7.30000000E-10	     NaN	8.85731981E-5
+1.89240000E+4	7.05772990E+5	-1.06599500E+5	4.93800000E+3	     NaN	7.40000000E-10	     NaN	8.84313987E-5
+2.09870000E+4	-1.20630189E+5	-1.06549800E+5	4.93800000E+3	     NaN	7.40000000E-10	     NaN	8.81313191E-5
+2.30840000E+4	-5.53262405E+4	-1.06499700E+5	4.93800000E+3	     NaN	7.60000000E-10	     NaN	8.85614173E-5
+2.52310000E+4	-3.59449081E+4	-1.06449800E+5	4.93800000E+3	     NaN	7.80000000E-10	     NaN	8.84893076E-5
+2.73430000E+4	-2.66335929E+4	-1.06400000E+5	4.93800000E+3	     NaN	8.00000000E-10	     NaN	8.85484056E-5
+2.94370000E+4	-2.11189203E+4	-1.06349800E+5	4.93800000E+3	     NaN	8.10000000E-10	     NaN	8.85378526E-5
+3.15350000E+4	-1.75561990E+4	-1.06300600E+5	4.93800000E+3	     NaN	8.30000000E-10	     NaN	8.86361585E-5
+3.36320000E+4	-1.49561945E+4	-1.06249900E+5	4.93800000E+3	     NaN	8.60000000E-10	     NaN	8.86241959E-5
+3.57160000E+4	-1.30768594E+4	-1.06200700E+5	4.93800000E+3	     NaN	8.80000000E-10	     NaN	8.85785864E-5
+3.78380000E+4	-1.15750813E+4	-1.06149900E+5	4.93800000E+3	     NaN	9.00000000E-10	     NaN	8.84770171E-5
+3.99440000E+4	-1.04016896E+4	-1.06100000E+5	4.93800000E+3	     NaN	9.40000000E-10	     NaN	8.88136761E-5
+4.20400000E+4	-9.44952884E+3	-1.06050400E+5	4.93800000E+3	     NaN	9.80000000E-10	     NaN	8.86436806E-5
+4.41420000E+4	-8.64245657E+3	-1.05999800E+5	4.93800000E+3	     NaN	1.02000000E-9	     NaN	8.83508281E-5
+4.62400000E+4	-7.97852787E+3	-1.05950500E+5	4.93800000E+3	     NaN	1.08000000E-9	     NaN	8.83614258E-5
+4.83420000E+4	-7.39755475E+3	-1.05900100E+5	4.93800000E+3	     NaN	1.16000000E-9	     NaN	8.84088383E-5
+5.04400000E+4	-6.89823532E+3	-1.05850000E+5	4.93800000E+3	     NaN	1.25000000E-9	     NaN	8.85089712E-5
+5.25410000E+4	-6.46450745E+3	-1.05800200E+5	4.93800000E+3	     NaN	1.38000000E-9	     NaN	8.85209100E-5
+5.46380000E+4	-6.07992793E+3	-1.05750100E+5	4.93800000E+3	     NaN	1.53000000E-9	     NaN	8.83307711E-5
+5.67440000E+4	-5.74111085E+3	-1.05700400E+5	4.93800000E+3	     NaN	1.74000000E-9	     NaN	8.86536704E-5
+5.88500000E+4	-5.43517676E+3	-1.05650200E+5	4.93800000E+3	     NaN	2.00000000E-9	     NaN	8.83077578E-5
+6.09450000E+4	-5.16123883E+3	-1.05600200E+5	4.93800000E+3	     NaN	2.35000000E-9	     NaN	8.87471931E-5
+6.30560000E+4	-4.91406095E+3	-1.05550300E+5	4.93800000E+3	     NaN	2.82000000E-9	     NaN	8.84423242E-5
+6.51700000E+4	-4.68861751E+3	-1.05500200E+5	4.93800000E+3	     NaN	3.66000000E-9	     NaN	8.82131861E-5
+6.72760000E+4	-4.48295213E+3	-1.05450100E+5	4.93800000E+3	     NaN	5.51000000E-9	     NaN	8.85085390E-5
+6.93780000E+4	-4.29529205E+3	-1.05400200E+5	4.93800000E+3	     NaN	1.36900000E-8	     NaN	8.84862975E-5
+7.14690000E+4	-4.12238000E+3	-1.05350200E+5	4.93800000E+3	     NaN	9.90000000E+37	     NaN	8.81532089E-5
+7.36000000E+4	-3.96315750E+3	-1.05300300E+5	4.93800000E+3	     NaN	2.41800000E-8	     NaN	8.87750940E-5
+7.56930000E+4	-3.81549285E+3	-1.05250300E+5	4.93800000E+3	     NaN	5.60000000E-9	     NaN	8.83562193E-5
+7.77940000E+4	-3.67817247E+3	-1.05200200E+5	4.93800000E+3	     NaN	3.66000000E-9	     NaN	8.85890887E-5

@@ -1,0 +1,294 @@
+G:\BEAR_storage\User_Experiments\20220317_arneodo\file(1)_Region 3__0007.txt
+Ring Energy (GeV): 2
+Lifetime (hours): 0
+Scan beginning: 3/17/2022	11:29:49 AM
+Ring current (mA): 309.42
+Source position: x (mm): 0.005 x' (mrad): -0.001 y (mm): 0.005 y' (mrad): -0
+Scan end: 3/17/2022	11:34:06 AM
+Ring current (mA): 309.19
+Source position: x (mm): 0.005 x' (mrad): -0.001 y (mm): 0.005 y' (mrad): 0
+
+SCAN TYPE: PHOTON ENERGY VS VAR_1 VS VAR_2
+
+FILE INFO: FILE INFO:
+
+SCAN PARAMETERS
+waiting time (ms): 1000
+Number of scans: 1
+Current scan number: 1
+DARK OFF 
+PREDARK OFF 
+
+SCAN PARAMETERS
+Regions configuration: 
+number of regions: 6
+Mirror grating scan: on
+Timed acquisition: off
+Region 1:
+Initial energy (eV): 40.000000
+Final energy (eV): 72.000000
+Delta energy (eV): 5.000000
+Deviation angle choice: Higher order rejection
+Deviation angle (°): NaN
+Al filter
+G1200 channel
+range keithley B 20 nA
+range keithley C 200 nA
+range keithley A 20 nA
+Var_1: ThetaA0.000000
+Var_2: PhiA:  0.000000
+Bias CEM (V): 0.000000
+Bias Keithley B (V): -30.000000
+Name region: 
+Region 2:
+Initial energy (eV): 70.000000
+Final energy (eV): 102.000000
+Delta energy (eV): 5.000000
+Deviation angle choice: Higher order rejection
+Deviation angle (°): NaN
+Si filter
+G1200 channel
+range keithley B 20 nA
+range keithley C 200 nA
+range keithley A 20 nA
+Var_1: ThetaA0.000000
+Var_2: PhiA:  0.000000
+Bias CEM (V): 0.000000
+Bias Keithley B (V): -30.000000
+Name region: 
+Region 3:
+Initial energy (eV): 98.000000
+Final energy (eV): 260.000000
+Delta energy (eV): 5.000000
+Deviation angle choice: Higher order rejection
+Deviation angle (°): NaN
+Full Beam
+G1200 channel
+range keithley B 20 nA
+range keithley C 200 nA
+range keithley A 20 nA
+Var_1: ThetaA0.000000
+Var_2: PhiA:  0.000000
+Bias CEM (V): 0.000000
+Bias Keithley B (V): -30.000000
+Name region: 
+Region 4:
+Initial energy (eV): 255.000000
+Final energy (eV): 320.000000
+Delta energy (eV): 5.000000
+Deviation angle choice: Higher order rejection
+Deviation angle (°): NaN
+filter Ag 0.6 um
+G1200 channel
+range keithley B 20 nA
+range keithley C 200 nA
+range keithley A 20 nA
+Var_1: ThetaA0.000000
+Var_2: PhiA:  0.000000
+Bias CEM (V): 0.000000
+Bias Keithley B (V): -30.000000
+Name region: 
+Region 5:
+Initial energy (eV): 315.000000
+Final energy (eV): 1200.000000
+Delta energy (eV): 5.000000
+Deviation angle choice: Higher order rejection
+Deviation angle (°): NaN
+Full Beam
+G1200 channel
+range keithley B 20 nA
+range keithley C 200 nA
+range keithley A 20 nA
+Var_1: ThetaA0.000000
+Var_2: PhiA:  0.000000
+Bias CEM (V): 0.000000
+Bias Keithley B (V): -30.000000
+Name region: 
+Region 6:
+Initial energy (eV): 1190.000000
+Final energy (eV): 1500.000000
+Delta energy (eV): 5.000000
+Deviation angle choice: Higher order rejection
+Deviation angle (°): NaN
+filter Ag 0.6 um
+G1200 channel
+range keithley B 20 nA
+range keithley C 200 nA
+range keithley A 20 nA
+Var_1: ThetaA0.000000
+Var_2: PhiA:  0.000000
+Bias CEM (V): 0.000000
+Bias Keithley B (V): -30.000000
+Name region: 
+
+BEAR MONOCHROMATOR CONFIGURATION: 
+Current Grating Position:     -218493.20
+Current Mirror Position: 2557.1
+Current Grating: G1200
+P2 phiz position:  0.0000
+Mono axis position: 25.0000
+Current Photon Energy (eV): 46.434
+Current Deviation Angle: 155.000
+Vertical Exit Slits (um): 450.000
+Exit slit y axis position: 2.2375
+Horizontal Exit Slits (um):  889.156
+Exit slit z axis position: 1.9229
+Mitutoyo position (mm): 
+
+Dose on sample (mJ/cm^2): NaN
+
+ENERGY CALIBRATION:
+offset grating G1200: yes
+Delta 0 order G1200:  -1200.0
+offset grating G1800: not
+Delta 0 order G1800:  0.0
+offset grating GNIM: not
+Delta 0 order GNIM:  0.0
+ZERO ORDER POSITIONS:
+Grating G1200: Mirror position:  4938.0
+Grating position: -105355.0
+Grating G1800: 
+Mirror position:  4938.0
+Grating position: -106345.0
+Grating GNIM: 
+Mirror position:  10000.0
+Grating position: 227300.0
+
+Initial filter: Al filter
+
+EXPERIMENTAL CHAMBER CONFIGURATION: 
+PsiC (deg):   -0.000186
+Phi Analyzer (degrees): -0.006630
+Theta Manipulator (degrees): -44.000040
+Theta Analyzer (degrees): -0.001619
+PhiM (degrees): -0.001026
+XM (mm): 0.000913
+YM (mm): 15.971900
+ZM (mm): (Warning: for kinetic energy scans, 
+this parameter is given in the scan settings) 
+-6.001413
+TiltM (°): 0.000275
+
+COIL VALUES
+Ix (amps):2.820
+Iy (amps): 6.789
+Iz (amps): 37.337
+
+POLARIZATION SELECTOR CONFIGURATION:
+Psi1 (rad): -0.001665535
+Psi2 (rad): 0.001417093
+Z min position (mm): 46.599650
+DZ position (mm): 18.599100
+Zmin 0 (mm): 66.500000
+DZ0 (mm): 53.000000
+
+BEAM SELECTOR CONFIGURATION:
+Zmin position (mm): NaN
+DZ position (mm): NaN
+Y+ position (mm): NaN
+Y- position (mm): NaN
+
+CHANNEL ELECTRON MULTIPLIER CONFIGURATION:
+CEM configured: OFF
+Bias CEM: 0.000000
+
+FLUORESCENCE DETECTOR CONFIGURATION:
+Not configured
+
+LUMINESCENCE MONOCHROMATOR CONFIGURATION:
+Optical fiber position (mm): 0.000000
+Optical fiber Switch inside: OFF
+Optical fiber Switch outside: ON
+Monochromator wavelength (A): 0.000000
+Limit Switches: ON
+
+I0 MONITOR PARAMETERS:
+I0 detector position(mm): -1.924999E+2
+Lower switch: OFF
+Upper switch: OFF
+Valve status:open
+
+PRESSURE PARAMETERS:
+Monitor chamber pressure (mbar): 1.698e-09
+Experimental chamber pressure -ION GAUGE-(mbar): 0.000000E+0
+
+XMCD PARAMETERS:
+Xmcd OFF
+Xmcd Direction -
+Xmcd current (A): 0.000000
+
+Gated scan off
+
+Instrument 1: AMMETER KEITHLEY 6517A B
+Measure type: Current
+range type: set range value
+range value (ampere):  20 nA
+Integration time:  set NPLC value
+NPLC value: 10.000
+Digital filter count: 2
+SAMPLE BIAS (V): 0.000
+Vsource: ON
+Output Voltage value: -0.000
+Vsource range: 1000 V
+
+Keithley B Bias (V) changed to: -30.000000
+
+Range Keithley B changed to 2 mA
+
+Range Keithley B changed to 20 pA
+
+Range Keithley B changed to 20 nA
+
+Instrument 2: AMMETER KEITHLEY 6517A A
+Measure type: Current
+range type: set range value
+range value (ampere):  20 nA
+Integration time:  set NPLC value
+NPLC value: 10.000
+Digital filter count: 2
+Vsource: OFF
+Output Voltage value: -0.000
+Vsource range: 100 V
+Trigger source: bus
+
+Instrument 3: None
+
+
+________________________________________________________________________________
+
+RelativeTime (msec)	Photon Energy	Var_1	Var_2	INSTR_1_Sample with Bias _(ampere ) 	INSTR_2_Monitor IM_(ampere)  	INSTR_3_No instrument selected_()	I_BPM_sum (Amps)	
+________________________________________________________________________________
+
+9.94690000E+4	9.80008599E+1	0.00000000E+0	0.00000000E+0	9.22636000E-9	1.93919900E-8	     NaN	8.94844877E-5
+1.04487000E+5	1.02998348E+2	0.00000000E+0	0.00000000E+0	1.00998000E-8	9.90000000E+37	     NaN	8.96201717E-5
+1.08542000E+5	1.08000504E+2	0.00000000E+0	0.00000000E+0	1.14650800E-8	9.90000000E+37	     NaN	8.95893859E-5
+1.12490000E+5	1.12999462E+2	0.00000000E+0	0.00000000E+0	1.23996300E-8	9.90000000E+37	     NaN	8.90998380E-5
+1.16424000E+5	1.18000140E+2	0.00000000E+0	0.00000000E+0	1.25863400E-8	9.90000000E+37	     NaN	8.96583992E-5
+1.20191000E+5	1.22998587E+2	0.00000000E+0	0.00000000E+0	1.18590200E-8	9.90000000E+37	     NaN	8.96812844E-5
+1.24037000E+5	1.28000262E+2	0.00000000E+0	0.00000000E+0	1.05738900E-8	9.90000000E+37	     NaN	8.98433137E-5
+1.27879000E+5	1.33000059E+2	0.00000000E+0	0.00000000E+0	8.89273000E-9	9.90000000E+37	     NaN	8.95330536E-5
+1.31572000E+5	1.38000183E+2	0.00000000E+0	0.00000000E+0	6.96568000E-9	9.90000000E+37	     NaN	8.94071090E-5
+1.35181000E+5	1.42999843E+2	0.00000000E+0	0.00000000E+0	4.97925000E-9	9.90000000E+37	     NaN	8.94349682E-5
+1.38743000E+5	1.48000219E+2	0.00000000E+0	0.00000000E+0	3.06616000E-9	1.46664500E-8	     NaN	8.97333342E-5
+1.43079000E+5	1.52990046E+2	0.00000000E+0	0.00000000E+0	1.84932000E-9	9.52931000E-9	     NaN	8.94175517E-5
+1.47933000E+5	1.58012261E+2	0.00000000E+0	0.00000000E+0	1.18176000E-9	6.56090000E-9	     NaN	8.95486015E-5
+1.52821000E+5	1.62981966E+2	0.00000000E+0	0.00000000E+0	8.31050000E-10	4.90059000E-9	     NaN	8.94640493E-5
+1.57670000E+5	1.68020335E+2	0.00000000E+0	0.00000000E+0	5.16510000E-10	3.23235000E-9	     NaN	8.95540583E-5
+1.62516000E+5	1.72980916E+2	0.00000000E+0	0.00000000E+0	3.65250000E-10	2.41591000E-9	     NaN	8.94353437E-5
+1.67408000E+5	1.78018529E+2	0.00000000E+0	0.00000000E+0	2.50950000E-10	1.77452000E-9	     NaN	8.93200951E-5
+1.72146000E+5	1.82973842E+2	0.00000000E+0	0.00000000E+0	2.05470000E-10	1.53698000E-9	     NaN	8.94841360E-5
+1.77039000E+5	1.88023607E+2	0.00000000E+0	0.00000000E+0	1.73530000E-10	1.36927000E-9	     NaN	8.91522931E-5
+1.81803000E+5	1.92978543E+2	0.00000000E+0	0.00000000E+0	1.62000000E-10	1.33822000E-9	     NaN	8.96134334E-5
+1.86524000E+5	1.98022765E+2	0.00000000E+0	0.00000000E+0	1.51340000E-10	1.31063000E-9	     NaN	8.96697151E-5
+1.91300000E+5	2.02977778E+2	0.00000000E+0	0.00000000E+0	1.44880000E-10	1.30776000E-9	     NaN	8.91947435E-5
+1.96015000E+5	2.08018887E+2	0.00000000E+0	0.00000000E+0	1.41270000E-10	1.33241000E-9	     NaN	8.95048516E-5
+2.00769000E+5	2.12986795E+2	0.00000000E+0	0.00000000E+0	1.38890000E-10	1.37005000E-9	     NaN	8.94172596E-5
+2.05524000E+5	2.18010630E+2	0.00000000E+0	0.00000000E+0	1.33740000E-10	1.37322000E-9	     NaN	8.97872227E-5
+2.10480000E+5	2.22990876E+2	0.00000000E+0	0.00000000E+0	1.24160000E-10	1.33130000E-9	     NaN	8.98434835E-5
+2.15211000E+5	2.27998643E+2	0.00000000E+0	0.00000000E+0	1.18620000E-10	1.32852000E-9	     NaN	8.97610593E-5
+2.19974000E+5	2.33000509E+2	0.00000000E+0	0.00000000E+0	1.15490000E-10	1.35780000E-9	     NaN	8.97963363E-5
+2.24740000E+5	2.37986382E+2	0.00000000E+0	0.00000000E+0	1.18760000E-10	1.45803000E-9	     NaN	8.99546879E-5
+2.29485000E+5	2.43016049E+2	0.00000000E+0	0.00000000E+0	1.21410000E-10	1.57350000E-9	     NaN	8.98155260E-5
+2.34203000E+5	2.47969617E+2	0.00000000E+0	0.00000000E+0	1.26460000E-10	1.72598000E-9	     NaN	8.96739798E-5
+2.38394000E+5	2.53035586E+2	0.00000000E+0	0.00000000E+0	1.21870000E-10	1.76248000E-9	     NaN	8.99624693E-5
+2.42102000E+5	2.57992854E+2	0.00000000E+0	0.00000000E+0	1.13040000E-10	1.73204000E-9	     NaN	8.95662206E-5

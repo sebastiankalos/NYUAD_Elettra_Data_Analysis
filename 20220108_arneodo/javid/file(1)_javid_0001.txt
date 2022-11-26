@@ -1,0 +1,152 @@
+G:\BEAR_storage\User_Experiments\20220108_arneodo\javid\file(1)_javid_0001.txt
+Ring Energy (GeV): 2
+Lifetime (hours): 0
+Scan beginning: 8/1/2022	9:18:37 AM
+Ring current (mA): 308.82
+Source position: x (mm): -0.005 x' (mrad): 0.004 y (mm): -0.001 y' (mrad): 0.001
+Scan end: 8/1/2022	9:18:49 AM
+Ring current (mA): 308.77
+Source position: x (mm): -0.005 x' (mrad): 0.004 y (mm): -0.001 y' (mrad): 0.001
+
+SCAN TYPE: P2 PHI_Z
+
+FILE INFO: FILE INFO:
+
+SCAN PARAMETERS
+waiting time (ms): 0
+Number of scans: 1
+Current scan number: 1
+DARK OFF 
+PREDARK OFF 
+
+SCAN PARAMETERS
+Initial P2 PhiZ (degrees): 100.000000E-3
+Delta P2 PhiZ (degrees): -2.500000E-3
+Final P2 PhiZ (degrees): -100.000000E-3
+
+
+BEAR MONOCHROMATOR CONFIGURATION: 
+Current Grating Position:     -159949.70
+Current Mirror Position: 2557.2
+Current Grating: G1200
+P2 phiz position:  0.0000
+Mono axis position: 25.0000
+Current Photon Energy (eV): 100.001
+Current Deviation Angle: 155.000
+Vertical Exit Slits (um): 450.000
+Exit slit y axis position: 2.2375
+Horizontal Exit Slits (um):  890.000
+Exit slit z axis position: 1.9250
+Mitutoyo position (mm): 
+
+Dose on sample (mJ/cm^2): NaN
+
+ENERGY CALIBRATION:
+offset grating G1200: yes
+Delta 0 order G1200:  -1000.0
+offset grating G1800: not
+Delta 0 order G1800:  0.0
+offset grating GNIM: not
+Delta 0 order GNIM:  0.0
+ZERO ORDER POSITIONS:
+Grating G1200: Mirror position:  4938.0
+Grating position: -105355.0
+Grating G1800: 
+Mirror position:  4938.0
+Grating position: -106345.0
+Grating GNIM: 
+Mirror position:  10000.0
+Grating position: 227300.0
+
+Initial filter: Full Beam
+
+EXPERIMENTAL CHAMBER CONFIGURATION: 
+PsiC (deg):   0.036413
+Phi Analyzer (degrees): -0.009471
+Theta Manipulator (degrees): -0.000040
+Theta Analyzer (degrees): -0.000455
+PhiM (degrees): 92.988340
+XM (mm): 4.999913
+YM (mm): 22.584212
+ZM (mm): (Warning: for kinetic energy scans, 
+this parameter is given in the scan settings) 
+-9.500200
+TiltM (°): -0.000275
+
+COIL VALUES
+Ix (amps):2.950
+Iy (amps): 6.790
+Iz (amps): 14.440
+
+POLARIZATION SELECTOR CONFIGURATION:
+Psi1 (rad): -0.001665535
+Psi2 (rad): 0.001417093
+Z min position (mm): 46.599650
+DZ position (mm): 18.599100
+Zmin 0 (mm): 66.500000
+DZ0 (mm): 53.000000
+
+BEAM SELECTOR CONFIGURATION:
+Zmin position (mm): 158.000000
+DZ position (mm): 264.000000
+Y+ position (mm): 291.700000
+Y- position (mm): NaN
+
+CHANNEL ELECTRON MULTIPLIER CONFIGURATION:
+CEM configured: OFF
+Bias CEM: 0.000000
+
+FLUORESCENCE DETECTOR CONFIGURATION:
+Not configured
+
+LUMINESCENCE MONOCHROMATOR CONFIGURATION:
+Optical fiber position (mm): 0.000000
+Optical fiber Switch inside: OFF
+Optical fiber Switch outside: ON
+Monochromator wavelength (A): 229000.000000
+Limit Switches: OFF
+
+I0 MONITOR PARAMETERS:
+I0 detector position(mm): -0.000000E+0
+Lower switch: OFF
+Upper switch: OFF
+Valve status:open
+
+PRESSURE PARAMETERS:
+Monitor chamber pressure (mbar): 2.171e-09
+Experimental chamber pressure -ION GAUGE-(mbar): 0.000000E+0
+
+XMCD PARAMETERS:
+Xmcd OFF
+Xmcd Direction -
+Xmcd current (A): 0.000000
+
+Gated scan off
+
+Instrument 1: None
+
+Instrument 2: AMMETER KEITHLEY 6517A A
+Measure type: Current
+range type: set range value
+range value (ampere):  20 nA
+Integration time:  set NPLC value
+NPLC value: 10.000
+Digital filter count: 2
+Vsource: OFF
+Output Voltage value: -0.000
+Vsource range: 100 V
+Trigger source: bus
+
+Range Keithley A changed to 200 nA
+
+Instrument 3: None
+
+
+________________________________________________________________________________
+
+Time (YYYYMMDDHHMMSSFRS)	Photon Energy (eV)	Position Grating (steps)	Position Mirror (steps)	PsiC (°)	ThetaA (°)	PhiA (°)	ThetaM (°)	XM (mm)	YM (mm)	ZM (mm)	Time (msec)	P2 PhiZ  position (mm)	INSTR_1_No instrument selected_( ) 	INSTR_1_DARK_No instrument selected_( ) 	INSTR_1_range_No instrument selected_(3 ) 	INSTR_2_Monitor IM_(ampere)  	INSTR_2_DARK_Monitor IM_(ampere)  	INSTR_2_rangeMonitor IM_(4)  	INSTR_3_No instrument selected_()	INSTR_3_DARK_No instrument selected_()	INSTR_3_rangeNo instrument selected_(5)	a) I_1 (Amps)	b) I_2 (Amps)	d) I_3(Amps)	c) I_4(Amps)	
+________________________________________________________________________________
+
+20220801091839036	1.00000629E+2	-1.59949700E+5	2.55720000E+3	3.64131740E-2	-4.54910713E-4	-9.47078100E-3	-4.00000000E-5	4.99991250E+0	2.25842125E+1	-9.50020000E+0	6.03085424E+8	1.00156000E-1	     NaN	     NaN	2.00000000E-8	7.00000000E-12	     NaN	2.00000000E-7	     NaN	     NaN	2.00000000E-6	1.64779623E-5	1.13229407E-5	3.38713209E-5	2.74174544E-5
+ 202208010918430	1.00000629E+2	-1.59949700E+5	2.55720000E+3	3.64131740E-2	-4.54910713E-4	-9.47078100E-3	-4.00000000E-5	4.99991250E+0	2.25842125E+1	-9.50020000E+0	6.03089149E+8	9.75000000E-2	     NaN	     NaN	2.00000000E-8	7.00000000E-12	     NaN	2.00000000E-7	     NaN	     NaN	2.00000000E-6	1.64779623E-5	1.13229407E-5	3.38713209E-5	2.74174544E-5
+20220801091846084	1.00000629E+2	-1.59949700E+5	2.55720000E+3	3.64131740E-2	-4.54910713E-4	-9.47078100E-3	-4.00000000E-5	4.99991250E+0	2.25842125E+1	-9.50020000E+0	6.03092891E+8	9.50000000E-2	     NaN	     NaN	2.00000000E-8	7.00000000E-12	     NaN	2.00000000E-7	     NaN	     NaN	2.00000000E-6	1.64779623E-5	1.13229407E-5	3.38713209E-5	2.74174544E-5
